@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: yeonnnee@gmail.com
-- https://yeonnnee.github.io/archive/
+- _Archive_ :point_right: https://yeonnnee.github.io/archive/
