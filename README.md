@@ -6,4 +6,4 @@
 </a> 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonnnee"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonnnee&layout=compact"/>
